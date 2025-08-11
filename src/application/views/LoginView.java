@@ -126,7 +126,7 @@ public class LoginView extends javax.swing.JFrame {
 
         jLabel6.setFont(new java.awt.Font("Segoe UI Black", 1, 14)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel6.setText("Toko Sony Electronic");
+        jLabel6.setText("Toko Sony Elektronik");
 
         jLabel3.setBackground(new java.awt.Color(102, 102, 102));
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/images/sonny-200.png"))); // NOI18N
