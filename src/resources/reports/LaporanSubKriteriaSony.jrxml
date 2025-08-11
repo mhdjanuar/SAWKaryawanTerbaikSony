@@ -122,7 +122,7 @@ inner join saw_karyawan_sony_electronic.criteria as c on sc.id_kreteria = c.id]]
 						<font fontName="Times New Roman" size="20" isBold="true"/>
 						<paragraph lineSpacingSize="1.0"/>
 					</textElement>
-					<text><![CDATA[Toko Sony Electronic]]></text>
+					<text><![CDATA[Toko Sony Elektronik]]></text>
 				</staticText>
 				<staticText>
 					<reportElement x="120" y="71" width="380" height="20" forecolor="#000000" uuid="032d289b-bd98-4bc9-91e9-e8c4f05b6c90"/>
