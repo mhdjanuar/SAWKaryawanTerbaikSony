@@ -275,24 +275,24 @@ ORDER BY total_nilai DESC;]]>
 				<textFieldExpression><![CDATA["Jakarta, " + new java.text.SimpleDateFormat("EEEE, dd MMMM yyyy", new java.util.Locale("id", "ID")).format(new java.util.Date())]]></textFieldExpression>
 			</textField>
 			<staticText>
-				<reportElement x="-18" y="50" width="588" height="19" uuid="eb053141-2c5a-4e41-b523-b11ceb30ca0c">
+				<reportElement x="460" y="50" width="124" height="19" uuid="f0ced513-a1fd-4151-989f-a5e088d9ace2">
 					<property name="com.jaspersoft.studio.unit.rightIndent" value="px"/>
 				</reportElement>
-				<textElement textAlignment="Right">
+				<textElement textAlignment="Center">
 					<font isBold="true"/>
 					<paragraph rightIndent="40"/>
 				</textElement>
-				<text><![CDATA[HRD]]></text>
+				<text><![CDATA[Admin]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="-18" y="130" width="560" height="24" uuid="727c6684-29ff-4c16-92e7-de6f3e2c2382">
+				<reportElement x="470" y="130" width="67" height="24" uuid="0f33c143-b6c6-48b7-90cd-5a576099e461">
 					<property name="com.jaspersoft.studio.unit.spacingBefore" value="pixel"/>
 					<property name="com.jaspersoft.studio.unit.rightIndent" value="px"/>
 				</reportElement>
 				<textElement textAlignment="Right">
 					<paragraph rightIndent="10"/>
 				</textElement>
-				<text><![CDATA[Indah]]></text>
+				<text><![CDATA[Hani Handayani]]></text>
 			</staticText>
 		</band>
 	</pageFooter>

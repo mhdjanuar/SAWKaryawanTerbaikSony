@@ -238,7 +238,7 @@ public class MenuView extends javax.swing.JFrame {
 
         profil.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         profil.setForeground(new java.awt.Color(255, 255, 255));
-        profil.setText("      DATA SUB CRITERIA");
+        profil.setText("      DATA SUB KRITERIA");
         profil.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 profilMouseClicked(evt);
@@ -256,7 +256,7 @@ public class MenuView extends javax.swing.JFrame {
         perhitunganSPK.setBackground(new java.awt.Color(0, 0, 0));
         perhitunganSPK.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         perhitunganSPK.setForeground(new java.awt.Color(255, 255, 255));
-        perhitunganSPK.setText("      DATA CRITERIA");
+        perhitunganSPK.setText("      DATA KRITERIA");
         perhitunganSPK.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 perhitunganSPKMouseClicked(evt);
